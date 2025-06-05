@@ -18,7 +18,7 @@
 
 ## Review
 
-#### Use **Markdown** (.md) to forma text!
+#### Use **Markdown** (.md) to format text!
 
 ##### Use three backticks (`) for code blocks!
 
