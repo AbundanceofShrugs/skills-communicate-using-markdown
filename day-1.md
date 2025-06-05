@@ -22,6 +22,7 @@
 
 ##### Use three backticks (`) for code blocks!
 
+<br>
 
 ```
 *italics*
@@ -29,11 +30,15 @@
 
 *italics*
 
+<br>
+
 ```
 **bold**
 ```
 
 **bold**
+
+<br>
 
 ```
 > blockquotes
@@ -45,4 +50,6 @@
 >
 >>(personal favorite)
 
+<br>
+<br>
 
