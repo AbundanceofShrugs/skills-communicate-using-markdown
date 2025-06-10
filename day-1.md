@@ -25,6 +25,22 @@
 <br>
 
 ```
+- this
+- is
+- a
+- bulleted
+- list
+```
+
+- this
+- is
+- a
+- bulleted
+- list
+
+<br>
+
+```
 1. this
 1. is
 1. an
